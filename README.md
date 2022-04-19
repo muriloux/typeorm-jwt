@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Simple JWT authentication API test with TypeORM
 
 Steps to run this project:
 
