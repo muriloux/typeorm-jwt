@@ -1,3 +1,4 @@
+import "dotenv/config";
 import "./database/connect";
 import express from "express";
 import router from "./route/index";
